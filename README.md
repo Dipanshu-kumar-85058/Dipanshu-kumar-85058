@@ -1,8 +1,8 @@
 # Hi, I'm Dipanshu 👋
 
-I'm a Computer Science student with a passion for building robust backend systems. I am currently deepening my expertise in the **Java ecosystem** while leveraging my experience in **Python and Data Analysis** to create well-rounded, efficient applications.
+I'm a Computer Science student with a passion for building backend systems. I am currently deepening my expertise in the **Java ecosystem, Python and Data Analysis** to create well-rounded, efficient applications.
 
-I am a firm believer in building a strong foundation and am committed to mastering the fundamentals of software engineering.
+I believe in building a strong foundation and am committed to mastering the fundamentals of software engineering.
 
 ---
 
@@ -19,7 +19,6 @@ I am a firm believer in building a strong foundation and am committed to masteri
 #### **Core Competencies**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
